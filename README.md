@@ -38,7 +38,7 @@ Example usage:
     $ cf push your_app_name -b https://github.com/dokechin/heroku-buildpack-otrs.git
 
     Access installer url
-    http://your_app_name.mybluemix.net/install.pl
+    http://your_app_name.mybluemix.net/installer.pl
 
 
 
